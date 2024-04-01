@@ -44,7 +44,7 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDMSoCzPJk2TuqrN9g3rz9O-m30ilpuDK8',
+    apiKey: '',
     appId: '1:528588173703:web:a3fa29d0756b0c7e976322',
     messagingSenderId: '528588173703',
     projectId: 'psikoanalizci',
@@ -54,7 +54,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyBrQXNnEtO0I2Xnf6KEnNvQsRMT-c6nB2Q',
+    apiKey: '',
     appId: '1:528588173703:android:995c7c78e52e7fdc976322',
     messagingSenderId: '528588173703',
     projectId: 'psikoanalizci',
@@ -63,7 +63,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyAFFKVP4P2HzRTSgr4jSTXwsUCFdy0dnEc',
+    apiKey: '',
     appId: '1:528588173703:ios:e725f080d73da5de976322',
     messagingSenderId: '528588173703',
     projectId: 'psikoanalizci',
@@ -73,7 +73,7 @@ class DefaultFirebaseOptions {
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyAFFKVP4P2HzRTSgr4jSTXwsUCFdy0dnEc',
+    apiKey: '',
     appId: '1:528588173703:ios:9d77d829b9db37e7976322',
     messagingSenderId: '528588173703',
     projectId: 'psikoanalizci',
