@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528588173703",
+    "firebase_url": "https://psikoanalizci-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "psikoanalizci",
+    "storage_bucket": "psikoanalizci.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528588173703:android:995c7c78e52e7fdc976322",
+        "android_client_info": {
+          "package_name": "com.example.psiko_test_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrQXNnEtO0I2Xnf6KEnNvQsRMT-c6nB2Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
